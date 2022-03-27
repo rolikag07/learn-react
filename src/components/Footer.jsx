@@ -6,7 +6,6 @@ function Footer() {
         <footer>
             <p>Copyright ⓒ {currentYear}</p>
         </footer>
-    );
-}
+)};
 
 export default Footer;
